@@ -5,6 +5,7 @@
 		Person person = new Person();
 		person.name = "Allan";
 		person.age = 21;
+		person.DisplayNameAge();
 
 		Teacher teacher = new Teacher();
 		teacher.name = "Tom";
